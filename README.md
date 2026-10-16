@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://avatars.githubusercontent.com/u/127501426?v=4" width="170" alt="Thanh Vu avatar" />
+      <img src="./assets/avatar.png" width="170" alt="Thanh Vu avatar" />
       <br />
       <h2>Thanh Vu</h2>
       <p><code>@vupham132</code></p>
