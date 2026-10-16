@@ -1,0 +1,72 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Thanh Vu — Full-Stack Developer</title>
+  <desc id="desc">A dark futuristic profile banner with cyan and violet accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B16"/>
+      <stop offset="0.5" stop-color="#10132A"/>
+      <stop offset="1" stop-color="#071522"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="235" y1="85" x2="960" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.48" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientTransform="translate(1100 30) rotate(135) scale(420 290)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientTransform="translate(85 300) rotate(-28) scale(470 260)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#94A3B8" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect width="1200" height="320" fill="url(#glowCyan)"/>
+    <rect width="1200" height="320" fill="url(#glowViolet)"/>
+
+    <path d="M-30 250C150 202 218 305 402 259C584 214 609 105 804 100C988 95 1057 179 1230 111" stroke="url(#accent)" stroke-opacity="0.22" stroke-width="2"/>
+    <path d="M-30 270C150 222 218 325 402 279C584 234 609 125 804 120C988 115 1057 199 1230 131" stroke="url(#accent)" stroke-opacity="0.08"/>
+
+    <g opacity="0.65">
+      <path d="M86 72H178L204 98" stroke="#22D3EE" stroke-opacity="0.45"/>
+      <circle cx="82" cy="72" r="4" fill="#22D3EE"/>
+      <circle cx="207" cy="101" r="4" fill="#818CF8"/>
+      <path d="M1012 246H1113L1142 217" stroke="#C084FC" stroke-opacity="0.45"/>
+      <circle cx="1008" cy="246" r="4" fill="#818CF8"/>
+      <circle cx="1145" cy="214" r="4" fill="#C084FC"/>
+    </g>
+
+    <g transform="translate(88 94)">
+      <rect x="0" y="0" width="76" height="76" rx="20" fill="#0D1729" stroke="url(#accent)" stroke-width="2"/>
+      <path d="M22 25L11 38L22 51M54 25L65 38L54 51M44 16L32 60" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <text x="196" y="145" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="3" filter="url(#softGlow)">THANH VU</text>
+    <text x="200" y="190" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="4">FULL-STACK · PRODUCT ENGINEERING · WEB EXPERIENCES</text>
+
+    <g transform="translate(200 222)">
+      <rect width="350" height="32" rx="16" fill="#0B1220" stroke="#334155"/>
+      <circle cx="18" cy="16" r="5" fill="#22C55E"/>
+      <text x="34" y="21" fill="#94A3B8" font-family="Consolas, monospace" font-size="14">building ideas into useful products</text>
+    </g>
+
+    <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="23.25" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.5"/>
+  </g>
+</svg>
