@@ -1,172 +1,116 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Thanh Vu — Full-Stack Developer" width="100%" />
+  <img src="./assets/header.svg" alt="Phạm Thanh Vũ — Full-Stack Developer" width="100%" />
 </p>
 
-<table>
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="./assets/avatar.png" width="170" alt="Thanh Vu avatar" />
-      <br />
-      <h2>Thanh Vu</h2>
-      <p><code>@vupham132</code></p>
-    </td>
-    <td width="70%" valign="middle">
-      <h1>Hi, I'm Thanh Vu 👋</h1>
-      <h3>Full-Stack Developer</h3>
-      <p>I build production web platforms across education, operations, field sales, HR, and tourism. My work spans frontend applications, backend APIs, business workflows, permissions, reporting, integrations, and testing.</p>
-      <p>
-        <a href="https://github.com/vupham132"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
-        <a href="mailto:phamthanhvu5590@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Thanh Vu" /></a>
-        <a href="#selected-projects"><img src="https://img.shields.io/badge/Portfolio-View_projects-06B6D4?style=for-the-badge" alt="View projects" /></a>
-        <a href="https://phamthanhvu-portfolio.vercel.app"><img src="https://img.shields.io/badge/Website-Live_portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+## Xin chào! 👋
 
-## What I work with
+Mình là **Phạm Thanh Vũ**, Full-Stack Developer tại **19T Digitech** với hơn 3 năm kinh nghiệm xây dựng các hệ thống quản trị nghiệp vụ. Mình làm việc trên cả backend (**Laravel, Node.js, PostgreSQL**) và frontend (**React, Next.js**), từ phân tích quy trình đến triển khai sản phẩm hoàn chỉnh.
+
+<p>
+  <a href="https://phamthanhvu-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Xem_website-14B8A6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:phamthanhvu5590@gmail.com"><img src="https://img.shields.io/badge/Email-Liên_hệ-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/vupham132"><img src="https://img.shields.io/badge/GitHub-vupham132-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+</p>
+
+## 🔧 Technologies & Tools
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+**Backend & Data**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Delivery & Quality**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-111827?style=flat-square&logo=php&logoColor=white)
+
+## 🚀 Featured Work
+
+- **[Tiếng Trung Thanh Hằng](https://phamthanhvu-portfolio.vercel.app/projects/tieng-trung-thanh-hang)** — ERP vận hành trung tâm đa chi nhánh: CRM, tuyển sinh, lớp học, tài chính, HR, kho và e-learning.
+- **[KIM pmApp](https://phamthanhvu-portfolio.vercel.app/projects/kim-pmapp)** — nền tảng quản lý Field Sales: GPS check-in, sampling, tồn kho, đơn hàng, quà tặng, ảnh bằng chứng và báo cáo.
+- **[SpeakWithHang](https://phamthanhvu-portfolio.vercel.app/projects/speakwithhang)** — nền tảng học tiếng Anh online/offline với video, gamification, CMS, thanh toán và CDN.
+- **[KIM HR](https://phamthanhvu-portfolio.vercel.app/projects/kim-hr)** — hệ thống hồ sơ, hợp đồng, chấm công và bảng lương độc lập với SSO và phân quyền.
+- **[Huyền Học Vân An](https://phamthanhvu-portfolio.vercel.app/projects/huyen-hoc-van-an)** — nền tảng lá số, khóa học video, thương mại điện tử và tư vấn trực tuyến.
+- **[Ninh Bình Stay](https://phamthanhvu-portfolio.vercel.app/projects/ninh-binh)** — nền tảng du lịch đa ngôn ngữ với tìm kiếm, nội dung, analytics và quản trị.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,materialui,php,laravel,nodejs,postgres,redis,docker,git,github&perline=14" alt="Technology stack" />
+  <a href="https://phamthanhvu-portfolio.vercel.app"><strong>Xem ảnh, workflow và case study đầy đủ →</strong></a>
 </p>
 
-## Selected projects
+## 📦 Projects & PoCs
 
-> Click a project to open its case study. Production repositories are private, so these pages explain the product, architecture, and engineering scope without exposing source code.
+<p><strong>12</strong> hệ thống production · <strong>15</strong> PoC/demo · ERP, CRM, PWA, education, field sales, transport, HR, retail và content platforms.</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="./projects/trung-tam-thanh-hang.md">🏫 Trung Tâm Thanh Hằng →</a></h3>
-      <p>End-to-end education-center operations: CRM, enrollment, classes, attendance, finance, HR, inventory, teacher/student portals, and e-learning.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>MUI</code> <code>Laravel</code></p>
-      <p><a href="./projects/trung-tam-thanh-hang.md"><strong>View case study →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="./projects/speak-with-hang.md">🗣️ Speak With Hằng →</a></h3>
-      <p>English-learning and content platform with courses, video lessons, enrollment, orders, payments, CMS, roadmaps, and notifications.</p>
-      <p><code>Next.js</code> <code>Tailwind</code> <code>Radix UI</code> <code>Laravel</code></p>
-      <p><a href="./projects/speak-with-hang.md"><strong>View case study →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="./projects/kimcom-field-sales.md">📋 Kimcom Field Sales PM →</a></h3>
-      <p>Field-sales operations for projects, teams, shifts, sampling, stock, orders, promotions, gifts, evidence photos, and reporting.</p>
-      <p><code>React</code> <code>Vite</code> <code>Laravel</code> <code>Redis</code> <code>Reverb</code></p>
-      <p><a href="./projects/kimcom-field-sales.md"><strong>View case study →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="./projects/hr-kim.md">👥 HR-KIM →</a></h3>
-      <p>Independent HR and payroll platform with SSO, RBAC, employee records, contracts, attendance conversion, payroll closing, and DOCX generation.</p>
-      <p><code>React</code> <code>Vite</code> <code>Laravel 11</code> <code>95 tests</code></p>
-      <p><a href="./projects/hr-kim.md"><strong>View case study →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="./projects/ielts-hana.md">🎓 IELTS Hana / WA P061 →</a></h3>
-      <p>Education management for curricula, schedules, attendance, assignments, grading, tuition, payroll, documents, and permissions.</p>
-      <p><code>React</code> <code>MUI</code> <code>Zustand</code> <code>Laravel</code></p>
-      <p><a href="./projects/ielts-hana.md"><strong>View case study →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="./projects/ninh-binh-tourism.md">🌏 Ninh Bình Tourism →</a></h3>
-      <p>Multilingual tourism discovery with listings, search, guides, itineraries, members, bookings, paid content, analytics, and administration.</p>
-      <p><code>React</code> <code>Fastify</code> <code>PostgreSQL</code> <code>i18next</code></p>
-      <p><a href="./projects/ninh-binh-tourism.md"><strong>View case study →</strong></a></p>
-    </td>
-  </tr>
-</table>
+<details>
+<summary><strong>Xem toàn bộ 27 dự án</strong></summary>
 
-### More production systems
+### Production systems
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://phamthanhvu-portfolio.vercel.app/projects/huyen-hoc-van-an">🔮 Huyền Học Vân An →</a></h4>
-      <p>Astrology and feng-shui platform with chart generation, video courses, e-commerce, consultation, and Bunny CDN streaming.</p>
-      <p><code>Next.js 15</code> <code>Laravel 10</code> <code>HLS.js</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://phamthanhvu-portfolio.vercel.app/projects/chuan-menh">✨ Chuẩn Mệnh →</a></h4>
-      <p>Astrology-reading SaaS with automated payments, AI-assisted readings, Zalo integration, and session replay.</p>
-      <p><code>Next.js 16</code> <code>Prisma</code> <code>PostgreSQL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://phamthanhvu-portfolio.vercel.app/projects/idrive">🚘 i-DRIVE →</a></h4>
-      <p>Driving-school management covering CRM, students, courses, attendance, exams, tuition, debt, and reporting.</p>
-      <p><code>Next.js 15</code> <code>Prisma</code> <code>NextAuth</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://phamthanhvu-portfolio.vercel.app/projects/tms">🚚 TMS →</a></h4>
-      <p>Transport management for dispatch, trips, driver expenses, accounting approvals, maintenance, payroll, and fleet KPIs.</p>
-      <p><code>NestJS</code> <code>Next.js</code> <code>Prisma</code> <code>Docker</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://phamthanhvu-portfolio.vercel.app/projects/cms-19t">🧩 CMS 19T →</a></h4>
-      <p>Extensible Laravel CMS with zero-redeploy plugins, themes, widget zones, generated settings UI, SEO, and an image crawler.</p>
-      <p><code>Laravel 12</code> <code>Blade</code> <code>MySQL</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://phamthanhvu-portfolio.vercel.app/projects/lang-du-keo">🏘️ Làng Dư Keo →</a></h4>
-      <p>Offline-first population-management PWA with reporting and a production migration to Laravel and PostgreSQL.</p>
-      <p><code>React 19</code> <code>Dexie</code> <code>Laravel 13</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top" colspan="2">
-      <h4><a href="https://phamthanhvu-portfolio.vercel.app/projects/hoang-dung-flashcard">🀄 Hoàng Dũng Chinese →</a></h4>
-      <p>Chinese vocabulary PWA with hierarchical decks, SM-2 spaced repetition, progress tracking, device access control, and Excel card imports.</p>
-      <p><code>React 19</code> <code>Express 5</code> <code>Prisma</code> <code>MySQL</code></p>
-    </td>
-  </tr>
-</table>
+- [Tiếng Trung Thanh Hằng](https://phamthanhvu-portfolio.vercel.app/projects/tieng-trung-thanh-hang)
+- [SpeakWithHang](https://phamthanhvu-portfolio.vercel.app/projects/speakwithhang)
+- [KIM pmApp](https://phamthanhvu-portfolio.vercel.app/projects/kim-pmapp)
+- [KIM HR](https://phamthanhvu-portfolio.vercel.app/projects/kim-hr)
+- [Ninh Bình Stay](https://phamthanhvu-portfolio.vercel.app/projects/ninh-binh)
+- [Huyền Học Vân An](https://phamthanhvu-portfolio.vercel.app/projects/huyen-hoc-van-an)
+- [Chuẩn Mệnh](https://phamthanhvu-portfolio.vercel.app/projects/chuan-menh)
+- [Làng Dư Keo](https://phamthanhvu-portfolio.vercel.app/projects/lang-du-keo)
+- [Hoàng Dũng Chinese](https://phamthanhvu-portfolio.vercel.app/projects/hoang-dung-flashcard)
+- [i-DRIVE](https://phamthanhvu-portfolio.vercel.app/projects/idrive)
+- [TMS](https://phamthanhvu-portfolio.vercel.app/projects/tms)
+- [CMS 19T](https://phamthanhvu-portfolio.vercel.app/projects/cms-19t)
 
 ### PoCs & demos
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p>🌏 <a href="https://phamthanhvu-portfolio.vercel.app/projects/edu-singapore"><strong>EduSingapore ERP</strong></a> — study-abroad consulting CRM</p>
-      <p>🎼 <a href="https://phamthanhvu-portfolio.vercel.app/projects/hes-center"><strong>HES Center</strong></a> — English and music-center operations</p>
-      <p>🏗️ <a href="https://phamthanhvu-portfolio.vercel.app/projects/nasaki"><strong>NASAKI</strong></a> — sales CRM and construction operations</p>
-      <p>📄 <a href="https://phamthanhvu-portfolio.vercel.app/projects/quan-ly-tai-lieu"><strong>Quản lý Tài liệu</strong></a> — document lifecycle and approval</p>
-      <p>🚗 <a href="https://phamthanhvu-portfolio.vercel.app/projects/thue-xe"><strong>Fleet Sync</strong></a> — fleet and vehicle-rental management</p>
-      <p>📐 <a href="https://phamthanhvu-portfolio.vercel.app/projects/van-hoa-toan"><strong>Văn hoá Toán</strong></a> — tutoring-center ERP</p>
-      <p>📷 <a href="https://phamthanhvu-portfolio.vercel.app/projects/will-house-studio"><strong>Will House Studio</strong></a> — photography-studio CRM</p>
-    </td>
-    <td width="50%" valign="top">
-      <p>📚 <a href="https://phamthanhvu-portfolio.vercel.app/projects/edulearn"><strong>EduLearn</strong></a> — online learning and mock exams</p>
-      <p>🚛 <a href="https://phamthanhvu-portfolio.vercel.app/projects/sgtraco"><strong>SGTraco CRM</strong></a> — freight quote-to-cash and approvals</p>
-      <p>🛋️ <a href="https://phamthanhvu-portfolio.vercel.app/projects/tin-nghia"><strong>Tín Nghĩa Retail</strong></a> — retail, inventory, cashflow, and commissions</p>
-      <p>🏡 <a href="https://phamthanhvu-portfolio.vercel.app/projects/thon-hong-quang"><strong>Thôn Hồng Quang</strong></a> — offline population administration</p>
-      <p>🇨🇳 <a href="https://phamthanhvu-portfolio.vercel.app/projects/tieng-trung-an"><strong>Tiếng Trung AN</strong></a> — language-center CRM</p>
-      <p>🇻🇳 <a href="https://phamthanhvu-portfolio.vercel.app/projects/kim-ngoc"><strong>Vietnamese Practice</strong></a> — bilingual CRM and LMS</p>
-      <p>🎭 <a href="https://phamthanhvu-portfolio.vercel.app/projects/quan-ly-clb"><strong>CLB Manager</strong></a> — student-club membership and finance</p>
-    </td>
-  </tr>
-</table>
+- [HES Center](https://phamthanhvu-portfolio.vercel.app/projects/hes-center)
+- [EduSingapore ERP](https://phamthanhvu-portfolio.vercel.app/projects/edu-singapore)
+- [SGTraco CRM](https://phamthanhvu-portfolio.vercel.app/projects/sgtraco)
+- [NASAKI](https://phamthanhvu-portfolio.vercel.app/projects/nasaki)
+- [IELTS with Hana](https://phamthanhvu-portfolio.vercel.app/projects/ielts-hana)
+- [Văn hoá Toán](https://phamthanhvu-portfolio.vercel.app/projects/van-hoa-toan)
+- [Vietnamese Practice](https://phamthanhvu-portfolio.vercel.app/projects/kim-ngoc)
+- [EduLearn](https://phamthanhvu-portfolio.vercel.app/projects/edulearn)
+- [Quản lý Tài liệu](https://phamthanhvu-portfolio.vercel.app/projects/quan-ly-tai-lieu)
+- [Tín Nghĩa Retail](https://phamthanhvu-portfolio.vercel.app/projects/tin-nghia)
+- [Fleet Sync](https://phamthanhvu-portfolio.vercel.app/projects/thue-xe)
+- [Will House Studio](https://phamthanhvu-portfolio.vercel.app/projects/will-house-studio)
+- [CLB Manager](https://phamthanhvu-portfolio.vercel.app/projects/quan-ly-clb)
+- [Tiếng Trung AN](https://phamthanhvu-portfolio.vercel.app/projects/tieng-trung-an)
+- [Thôn Hồng Quang](https://phamthanhvu-portfolio.vercel.app/projects/thon-hong-quang)
+
+</details>
+
+## 🧭 Cách mình làm việc
+
+- Phân tích quy trình nghiệp vụ và chuyển thành module có thể vận hành thực tế.
+- Triển khai xuyên suốt UI, API, database, phân quyền, báo cáo và tích hợp.
+- Dựng PoC nhanh bằng kiến trúc offline-first, dữ liệu demo sát nghiệp vụ và workflow theo vai trò.
+- Chú trọng khả năng bảo trì, kiểm thử và tính toàn vẹn dữ liệu.
+
+---
 
 <p align="center">
-  <a href="https://phamthanhvu-portfolio.vercel.app"><strong>Explore all 27 projects with screenshots and detailed workflows →</strong></a>
+  <a href="mailto:phamthanhvu5590@gmail.com">Email</a> ·
+  <a href="https://phamthanhvu-portfolio.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/vupham132">GitHub</a>
 </p>
-
-## Engineering focus
-
-- Full-stack feature delivery across UI, API, data models, validation, and authorization
-- Complex business workflows, approval flows, RBAC, audit logs, and data integrity
-- Dashboards, reports, Excel/Word import-export, media pipelines, and third-party integrations
-- Rapid PoC delivery with offline-first PWA architecture, Dexie/IndexedDB, realistic seed data, and role-based workflows
-- Testing with Vitest, Playwright, PHPUnit, and Pest
-- Maintainable modular architectures for long-running business products
-
-<p align="center">
-  <i>Build useful products. Solve real workflows. Keep learning.</i>
-</p>
-
-<!-- Add LinkedIn here after confirming what should be public. -->
