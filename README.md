@@ -132,7 +132,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p>🎓 <a href="https://phamthanhvu-portfolio.vercel.app/projects/ielts-hana"><strong>IELTS with Hana</strong></a> — IELTS training-center ERP</p>
       <p>🌏 <a href="https://phamthanhvu-portfolio.vercel.app/projects/edu-singapore"><strong>EduSingapore ERP</strong></a> — study-abroad consulting CRM</p>
       <p>🎼 <a href="https://phamthanhvu-portfolio.vercel.app/projects/hes-center"><strong>HES Center</strong></a> — English and music-center operations</p>
       <p>🏗️ <a href="https://phamthanhvu-portfolio.vercel.app/projects/nasaki"><strong>NASAKI</strong></a> — sales CRM and construction operations</p>
