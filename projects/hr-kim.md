@@ -2,7 +2,7 @@
 
 > Independent HR, contracts, attendance, and payroll platform
 
-[← Back to profile](../README.md)
+[← Back to profile](../README.md) · [View screenshots and workflows](https://phamthanhvu-portfolio.vercel.app/projects/kim-hr)
 
 ## Overview
 

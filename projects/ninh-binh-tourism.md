@@ -2,7 +2,7 @@
 
 > Multilingual tourism discovery and content platform
 
-[← Back to profile](../README.md)
+[← Back to profile](../README.md) · [View screenshots and workflows](https://phamthanhvu-portfolio.vercel.app/projects/ninh-binh)
 
 ## Overview
 

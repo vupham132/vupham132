@@ -2,7 +2,7 @@
 
 > Full-stack field-sales and project operations platform
 
-[← Back to profile](../README.md)
+[← Back to profile](../README.md) · [View screenshots and workflows](https://phamthanhvu-portfolio.vercel.app/projects/kim-pmapp)
 
 ## Overview
 
